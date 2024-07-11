@@ -4,6 +4,8 @@ Hey there, future Elixir enthusiast! 🎉
 
 We’re absolutely thrilled to have you dive into the magical world of Elixir with us. Prepare yourself for a journey filled with new paradigms, mind-blowing concepts, and plenty of fun.
 
+If you haven't seen it already, Brooke prepared a great [presentation](https://docs.google.com/presentation/d/1p8gjYT9ZsnuA9H8-StNThC0R6QhRUBqV1PV_-WvQE0s/edit#slide=id.g2452fbb5447_0_48) for you to prime yourself to get started
+
 ## What to Expect
 
 Elixir might seem a bit different at first, but that’s what makes it so exciting! We’re here to help you learn and enjoy every step of the way. Focus on grasping the concepts and don’t worry too much about finishing every single exercise. The learning process is what matters here.
